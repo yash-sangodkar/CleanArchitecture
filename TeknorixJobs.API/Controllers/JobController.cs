@@ -1,4 +1,5 @@
 ﻿using Asp.Versioning;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using TeknorixJobs.Application.Abstraction.Services;
 using TeknorixJobs.Application.DTOs.Job;
@@ -8,6 +9,7 @@ namespace TeknorixJobs.API.Controllers;
 [ApiVersion(1.0)]
 [Route("api/v{version:apiVersion}/[controller]")]
 [ApiController]
+[Authorize]
 public class JobController : Controller
 {
     private readonly IJobService _jobService;
