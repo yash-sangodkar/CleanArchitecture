@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TeknorixJobs.Infrastructure\TeknorixJobs.Infrastructure.csproj" />
+    <ProjectReference Include="..\TeknorixJobs.Infrastructure\JobPortal.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

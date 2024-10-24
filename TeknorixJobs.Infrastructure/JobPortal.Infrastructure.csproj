@@ -20,8 +20,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TeknorixJobs.Application\TeknorixJobs.Application.csproj" />
-    <ProjectReference Include="..\TeknorixJobs.Domain\TeknorixJobs.Domain.csproj" />
+    <ProjectReference Include="..\TeknorixJobs.Application\JobPortal.Application.csproj" />
+    <ProjectReference Include="..\TeknorixJobs.Domain\JobPortal.Domain.csproj" />
   </ItemGroup>
 
 </Project>
