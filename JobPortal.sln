@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobPortal.API", "TeknorixJobs.API\JobPortal.API.csproj", "{27CA46C1-DC68-45FA-B3F6-2C437C9BB9D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobPortal.API", "JobPortal.API\JobPortal.API.csproj", "{27CA46C1-DC68-45FA-B3F6-2C437C9BB9D8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobPortal.Domain", "TeknorixJobs.Domain\JobPortal.Domain.csproj", "{77D17ECC-85C8-462A-8D61-50B332296F21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobPortal.Domain", "JobPortal.Domain\JobPortal.Domain.csproj", "{77D17ECC-85C8-462A-8D61-50B332296F21}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobPortal.Application", "TeknorixJobs.Application\JobPortal.Application.csproj", "{682C9CAF-5E24-45D8-BA7E-C65E5FEB38D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobPortal.Application", "JobPortal.Application\JobPortal.Application.csproj", "{682C9CAF-5E24-45D8-BA7E-C65E5FEB38D5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobPortal.Infrastructure", "TeknorixJobs.Infrastructure\JobPortal.Infrastructure.csproj", "{D4AFD97F-FD2F-4D69-BA6D-CB51D5FF3BCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobPortal.Infrastructure", "JobPortal.Infrastructure\JobPortal.Infrastructure.csproj", "{D4AFD97F-FD2F-4D69-BA6D-CB51D5FF3BCA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
