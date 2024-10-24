@@ -1,7 +1,7 @@
-﻿using TeknorixJobs.Application.Abstraction.Repository;
-using TeknorixJobs.Domain.Models;
+﻿using JobPortal.Application.Abstraction.Repository;
+using JobPortal.Domain.Models;
 
-namespace TeknorixJobs.Infrastructure.Repository;
+namespace JobPortal.Infrastructure.Repository;
 
 internal class DepartmentRepository : Repository<Department>, IDepartmentRepository
 {

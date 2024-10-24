@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using TeknorixJobs.Domain.Models;
+using JobPortal.Domain.Models;
 
 
-namespace TeknorixJobs.Infrastructure;
+namespace JobPortal.Infrastructure;
 
 public class JobDbContext : DbContext 
 {

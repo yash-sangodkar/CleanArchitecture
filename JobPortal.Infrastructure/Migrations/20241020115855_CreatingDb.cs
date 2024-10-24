@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace TeknorixJobs.Infrastructure.Migrations
+namespace JobPortal.Infrastructure.Migrations
 {
     /// <inheritdoc />
     public partial class CreatingDb : Migration

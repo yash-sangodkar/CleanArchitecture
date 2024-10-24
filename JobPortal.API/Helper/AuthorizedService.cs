@@ -2,10 +2,10 @@
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using TeknorixJobs.API.Global;
-using TeknorixJobs.Application.DTOs.Authorize;
+using JobPortal.API.Global;
+using JobPortal.Application.DTOs.Authorize;
 
-namespace TeknorixJobs.API.Helper;
+namespace JobPortal.API.Helper;
 
 public class AuthorizedService
 {

@@ -1,6 +1,6 @@
-﻿using TeknorixJobs.Application.Abstraction.Repository;
+﻿using JobPortal.Application.Abstraction.Repository;
 
-namespace TeknorixJobs.Infrastructure.Repository;
+namespace JobPortal.Infrastructure.Repository;
 
 public class UnitOfWork : IUnitOfWork
 {

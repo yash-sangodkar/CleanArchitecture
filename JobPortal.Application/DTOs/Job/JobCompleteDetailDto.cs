@@ -1,6 +1,6 @@
-﻿using TeknorixJobs.Domain.Models;
+﻿using JobPortal.Domain.Models;
 
-namespace TeknorixJobs.Application.DTOs.Job;
+namespace JobPortal.Application.DTOs.Job;
 
 public record JobCompleteDetailDto(
     int Id,

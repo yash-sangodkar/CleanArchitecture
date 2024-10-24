@@ -1,15 +1,15 @@
 using Asp.Versioning;
 using Asp.Versioning.ApiExplorer;
 using Microsoft.EntityFrameworkCore;
-using TeknorixJobs.Application.Abstraction.Repository;
-using TeknorixJobs.Application.Abstraction.Services;
-using TeknorixJobs.Application.Services;
-using TeknorixJobs.Infrastructure;
-using TeknorixJobs.Infrastructure.Repository;
+using JobPortal.Application.Abstraction.Repository;
+using JobPortal.Application.Abstraction.Services;
+using JobPortal.Application.Services;
+using JobPortal.Infrastructure;
+using JobPortal.Infrastructure.Repository;
 using System.Text;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
-using TeknorixJobs.API.Global;
+using JobPortal.API.Global;
 using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);

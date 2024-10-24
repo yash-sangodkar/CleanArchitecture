@@ -19,7 +19,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TeknorixJobs.Infrastructure\JobPortal.Infrastructure.csproj" />
+    <ProjectReference Include="..\JobPortal.Application\JobPortal.Application.csproj" />
+    <ProjectReference Include="..\JobPortal.Infrastructure\JobPortal.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using TeknorixJobs.API.Helper;
-using TeknorixJobs.Application.DTOs.Authorize;
+using JobPortal.API.Helper;
+using JobPortal.Application.DTOs.Authorize;
 
-namespace TeknorixJobs.API.Controllers
+namespace JobPortal.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

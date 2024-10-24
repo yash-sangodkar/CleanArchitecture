@@ -1,7 +1,7 @@
-﻿using TeknorixJobs.Application.Abstraction.Repository;
-using TeknorixJobs.Domain.Models;
+﻿using JobPortal.Application.Abstraction.Repository;
+using JobPortal.Domain.Models;
 
-namespace TeknorixJobs.Infrastructure.Repository;
+namespace JobPortal.Infrastructure.Repository;
 
 public class LocationRepository : Repository<Location> , ILocationRepository
 {

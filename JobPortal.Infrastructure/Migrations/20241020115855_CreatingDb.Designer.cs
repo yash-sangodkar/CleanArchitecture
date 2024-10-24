@@ -5,11 +5,11 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using TeknorixJobs.Infrastructure;
+using JobPortal.Infrastructure;
 
 #nullable disable
 
-namespace TeknorixJobs.Infrastructure.Migrations
+namespace JobPortal.Infrastructure.Migrations
 {
     [DbContext(typeof(JobDbContext))]
     [Migration("20241020115855_CreatingDb")]

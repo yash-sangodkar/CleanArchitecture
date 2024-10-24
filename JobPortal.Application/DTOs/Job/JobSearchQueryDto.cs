@@ -1,4 +1,4 @@
-﻿namespace TeknorixJobs.Application.DTOs.Job;
+﻿namespace JobPortal.Application.DTOs.Job;
 
 public record JobSearchQueryDto(
     string Q,

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 
-namespace TeknorixJobs.Application.Abstraction.Repository;
+namespace JobPortal.Application.Abstraction.Repository;
 
 public interface IRepository<TEntity> where TEntity : class
 {

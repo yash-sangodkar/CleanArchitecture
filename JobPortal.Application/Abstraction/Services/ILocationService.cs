@@ -1,7 +1,7 @@
-﻿using TeknorixJobs.Application.DTOs.Location;
-using TeknorixJobs.Domain.Models;
+﻿using JobPortal.Application.DTOs.Location;
+using JobPortal.Domain.Models;
 
-namespace TeknorixJobs.Application.Abstraction.Services;
+namespace JobPortal.Application.Abstraction.Services;
 
 public interface ILocationService
 {

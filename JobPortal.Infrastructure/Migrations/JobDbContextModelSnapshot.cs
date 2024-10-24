@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using TeknorixJobs.Infrastructure;
+using JobPortal.Infrastructure;
 
 #nullable disable
 
-namespace TeknorixJobs.Infrastructure.Migrations
+namespace JobPortal.Infrastructure.Migrations
 {
     [DbContext(typeof(JobDbContext))]
     partial class JobDbContextModelSnapshot : ModelSnapshot

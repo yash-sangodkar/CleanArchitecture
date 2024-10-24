@@ -1,4 +1,4 @@
-﻿namespace TeknorixJobs.Application.DTOs.Location;
+﻿namespace JobPortal.Application.DTOs.Location;
 
 public record CreateLocationDto(
     string Title,

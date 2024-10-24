@@ -1,4 +1,4 @@
-﻿namespace TeknorixJobs.Application.Abstraction.Repository;
+﻿namespace JobPortal.Application.Abstraction.Repository;
 
 public interface IUnitOfWork : IDisposable
 {

@@ -1,4 +1,4 @@
-﻿namespace TeknorixJobs.Domain.Models;
+﻿namespace JobPortal.Domain.Models;
 
 public class Job
 {

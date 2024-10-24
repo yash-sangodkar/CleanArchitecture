@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
-using TeknorixJobs.Application.Abstraction.Repository;
+using JobPortal.Application.Abstraction.Repository;
 
-namespace TeknorixJobs.Infrastructure.Repository;
+namespace JobPortal.Infrastructure.Repository;
 
 public class Repository<TEntity> : IRepository<TEntity>  where TEntity : class
 {

@@ -1,4 +1,4 @@
-﻿namespace TeknorixJobs.Application.DTOs.Authorize;
+﻿namespace JobPortal.Application.DTOs.Authorize;
 
 public record AuthorizedDetailsDto(
     string ClientAppId,

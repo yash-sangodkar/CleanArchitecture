@@ -1,4 +1,4 @@
-﻿namespace TeknorixJobs.API.Global;
+﻿namespace JobPortal.API.Global;
 
 public class AuthorizedApp
 {

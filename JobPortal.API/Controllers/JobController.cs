@@ -1,10 +1,10 @@
 ﻿using Asp.Versioning;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using TeknorixJobs.Application.Abstraction.Services;
-using TeknorixJobs.Application.DTOs.Job;
+using JobPortal.Application.Abstraction.Services;
+using JobPortal.Application.DTOs.Job;
 
-namespace TeknorixJobs.API.Controllers;
+namespace JobPortal.API.Controllers;
 
 [ApiVersion(1.0)]
 [Route("api/v{version:apiVersion}/[controller]")]

@@ -1,9 +1,9 @@
-﻿using TeknorixJobs.Application.Abstraction.Repository;
-using TeknorixJobs.Application.Abstraction.Services;
-using TeknorixJobs.Application.DTOs.Location;
-using TeknorixJobs.Domain.Models;
+﻿using JobPortal.Application.Abstraction.Repository;
+using JobPortal.Application.Abstraction.Services;
+using JobPortal.Application.DTOs.Location;
+using JobPortal.Domain.Models;
 
-namespace TeknorixJobs.Application.Services;
+namespace JobPortal.Application.Services;
 
 public class LocationService : ILocationService
 {
